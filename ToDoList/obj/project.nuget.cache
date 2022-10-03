@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4J7rqXH5B/I+uzCxykLPBHYqKrHpsu7mTKsG6+yNuHtCCSLbpCnsshODbiv/5cCsVO/P1MyP0rQIjm22xjhI9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tedjo\\OneDrive\\Desktop\\Epicodus\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tedjo\\.nuget\\packages\\mysqlconnector\\0.69.0\\mysqlconnector.0.69.0.nupkg.sha512"
+  ],
+  "logs": []
+}
